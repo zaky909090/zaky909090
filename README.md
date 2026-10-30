@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="./assets/banner.svg" alt="FireCraft Banner" width="100%" />
 
@@ -18,7 +18,7 @@
 ```js
 const zaky = {
   role: "Student & Tech Enthusiast",
-  currentlyLearning: ["HTML", "CSS", "JavaScript", "Python"],
+  currentlyLearning: ["HTML", "CSS", "Tailwind CSS", "JavaScript", "Python", "Java"],
   interestedIn: ["Flutter", "Vue.js", "Kotlin", "PHP"],
   goal: "Become a skilled developer",
 };
@@ -26,7 +26,7 @@ const zaky = {
 
 - Student and tech enthusiast
 - Learning web development
-- Currently learning **HTML, CSS, JavaScript, and Python**
+- Currently learning **HTML, CSS, Tailwind CSS, JavaScript, Python, and Java**
 - Next up: **Flutter, Vue.js, Kotlin, and PHP**
 - Always exploring new things in coding
 
@@ -38,8 +38,10 @@ const zaky = {
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Exploring
 
@@ -53,6 +55,8 @@ const zaky = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
