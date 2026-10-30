@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="FireCraft Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/zaky909090/zaky909090/main/assets/banner.svg?v=2" alt="FireCraft Banner" width="100%" />
 
 <br>
 
