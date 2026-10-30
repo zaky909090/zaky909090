@@ -18,7 +18,7 @@
 ```js
 const zaky = {
   role: "Student & Tech Enthusiast",
-  currentlyLearning: ["HTML", "CSS", "Tailwind CSS", "JavaScript", "Python", "Java"],
+  currentlyLearning: ["HTML", "CSS", "Tailwind CSS", "JavaScript", "React", "Laravel", "Python", "Java"],
   interestedIn: ["Flutter", "Vue.js", "Kotlin", "PHP"],
   goal: "Become a skilled developer",
 };
@@ -26,7 +26,7 @@ const zaky = {
 
 - Student and tech enthusiast
 - Learning web development
-- Currently learning **HTML, CSS, Tailwind CSS, JavaScript, Python, and Java**
+- Currently learning **HTML, CSS, Tailwind CSS, JavaScript, React, Laravel, Python, and Java**
 - Next up: **Flutter, Vue.js, Kotlin, and PHP**
 - Always exploring new things in coding
 
@@ -40,6 +40,8 @@ const zaky = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
